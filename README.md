@@ -1,5 +1,3 @@
-## Salve
-
 ![Snake animation](https://raw.githubusercontent.com/PauloHenriquePP/PauloHenriquePP/output/github-contribution-grid-snake.svg)
 
 <!--
